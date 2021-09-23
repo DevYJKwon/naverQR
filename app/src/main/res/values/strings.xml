@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">간편전자출입명부</string>
+    <string name="desc">QR코드 생성 버튼을 누르면 즉시 QR 전자출입명부가 발급됩니다.</string>
+    <string name="admob_app_id">ca-app-pub-6913804017298946~8137825416</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6913804017298946/6633172050</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
