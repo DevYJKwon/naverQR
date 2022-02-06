@@ -5,3 +5,4 @@
 바로 QR코드가 나와 간편하게 전자출입인증을 할 수 있다.
 
 ![preview](./main.jpg)
+![image](https://user-images.githubusercontent.com/71250502/152666195-f0f09c79-c517-41c2-b7e8-5b5f860ca233.png)
